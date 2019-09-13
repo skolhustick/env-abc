@@ -1,0 +1,20 @@
+{
+  "name": "env-abc",
+  "version": "1.0.0",
+  "description": "A library to alphabetically order your .env file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "variables",
+    "alphabetically"
+  ],
+  "author": "eshwarenm",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0"
+  }
+}
