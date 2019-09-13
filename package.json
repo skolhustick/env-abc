@@ -1,6 +1,6 @@
 {
   "name": "env-abc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to alphabetically order your .env file",
   "main": "./lib/sortenv.js",
   "scripts": {
