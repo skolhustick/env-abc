@@ -2,9 +2,12 @@
   "name": "env-abc",
   "version": "1.0.0",
   "description": "A library to alphabetically order your .env file",
-  "main": "index.js",
+  "main": "./lib/sortenv.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "env-abc": "./bin/index.js"
   },
   "keywords": [
     "env",
